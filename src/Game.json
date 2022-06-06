@@ -1,0 +1,184 @@
+[
+    {
+        "id": 1,
+        "img": "pcCover/cod-mw2.jpg",
+        "name": "call of Duty Modern warfare 2",
+        "genre": "Action",
+        "year" : 2005
+    },
+    {
+        "id": 2,
+        "img": "pcCover/cod-mw3.jpg",
+        "name": "Call of Duty Modern Warfare 3",
+        "genre": "Action",
+        "year" : 2005
+    },
+    {
+        "id": 3,
+        "img": "pcCover/cod-v.jpg",
+        "name": "Call of Duty Zombies",
+        "genre": "Action",
+        "year" : 2005
+    },
+    {
+        "id": 4,
+        "img": "pcCover/far-cry-5.jpg",
+        "name": "Far Cry 5",
+        "genre": "Action",
+        "year" : 2005
+    },
+    {
+        "id": 5,
+        "img": "pcCover/cod-mwr.jpg",
+        "name": "Call Of Duty Modern Warfare Remastered",
+        "genre": "Action",
+        "year" : 2005
+    },
+    {
+        "id": 6,
+        "img": "pcCover/far-cry3.jpg",
+        "name": "Far Cry 3",
+        "genre": "Action",
+        "year" : 2005
+    },
+    {
+        "id": 7,
+        "img": "pcCover/fc6.jpg",
+        "genre": "Action",
+        "name": "Far Cry 6",
+        "year" : 2005
+    },
+    {
+        "id": 8,
+        "img": "pcCover/gta-5.jpg",
+        "name": "Grand Theft Auto Five",
+        "genre": "Action",
+        "year" : 2005
+    },
+    {
+        "id": 9,
+        "img": "pcCover/gta-online.jpg",
+        "name": "Grand Theft Auto Online",
+        "genre": "Action",
+        "year" : 2005
+    },
+    {
+        "id": 10,
+        "img": "pcCover/cod-mw2.jpg",
+        "name": "Call of Duty Modern Warfare 2",
+        "genre": "Action",
+        "year" : 2005
+    },
+    {
+        "id": 11,
+        "img": "pcCover/hitman_2.jpg",
+        "name": "Hitman 2",
+        "genre": "Action",
+        "year" : 2005
+    },
+    {
+        "id": 12,
+        "img": "pcCover/gta-sa.jpg",
+        "name": "Grand Theft Auto San Andreas",
+        "genre": "Action",
+        "year" : 2005
+    },
+    {
+        "id": 13,
+        "img": "pcCover/gta-vc.jpg",
+        "name": "Grand Theft Auto Vice City",
+        "genre": "Action",
+        "year" : 2005
+    },
+    {
+        "id": 14,
+        "img": "pcCover/hitman-absolution.jpg",
+        "name": "Hitman Absolution",
+        "genre": "Action",
+        "year" : 2005
+    },
+    {
+        "id": 15,
+        "img": "pcCover/hitman.jpg",
+        "name": "Hitman",
+        "genre": "Action",
+        "year" : 2005
+    },
+    {
+        "id": 16,
+        "img": "pcCover/hitman3.jpg",
+        "name": "Hitman 3",
+        "genre": "Action",
+        "year" : 2005
+    },
+    {
+        "id": 17,
+        "img": "pcCover/nfs-niLimits.jpg",
+        "name": "Need For Speed No Limits",
+        "genre": "Racing",
+        "year" : 2005
+    },
+    {
+        "id": 18,
+        "img": "pcCover/resident-evil.jpg",
+        "name": "Resident Evil",
+        "genre": "Action",
+        "year" : 2005
+    },
+    {
+        "id": 19,
+        "img": "pcCover/sleeping-dogs.jpg",
+        "name": "Sleeping Dogs",
+        "genre": "Action",
+        "year" : 2005
+    },
+    {
+        "id": 20,
+        "img": "pcCover/nfs-hpr.jpg",
+        "name": "Need For Speed Hot Pursuit Remastered",
+        "genre": "Racing",
+        "year" : 2005
+    },
+    {
+        "id": 21,
+        "img": "pcCover/nfs-mw.jpg",
+        "name": "Need For Speed Most Wanted",
+        "genre": "Racing",
+        "year" : 2005
+    },
+    {
+        "id": 23,
+        "img": "pcCover/nfs-payback.jpg",
+        "name": "Need For Speed Payback",
+        "genre": "Racing",
+        "year" : 2005
+    },
+    {
+        "id": 24,
+        "img": "pcCover/nfs-carbon.png",
+        "name": "Need For Speed Carbon",
+        "genre": "Racing",
+        "year" : 2005
+    },
+    {
+        "id": 25,
+        "img": "pcCover/Need-for-Speed-heat.jpg",
+        "name": "Need For Speed Heat",
+        "genre": "Racing",
+        "year" : 2005
+    },
+    {
+        "id": 26,
+        "img": "pcCover/nfs-rivals.webp",
+        "name": "Need For Speed Rivals",
+        "genre": "Racing",
+        "year" : 2005
+    },
+    {
+        "id": 21,
+        "img": "pcCover/Need-for-Speed-2022.jpg",
+        "name": "Need For Speed 2022",
+        "genre": "Racing",
+        "year" : 2005
+    }
+]
